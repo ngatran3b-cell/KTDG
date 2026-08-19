@@ -1,0 +1,6 @@
+{
+  "name": "Đánh Giá Thường Xuyên THCS",
+  "description": "Ứng dụng kiểm tra và đánh giá thường xuyên cho học sinh THCS với 4 dạng bài tập tương tác (Trắc nghiệm nhiều lựa chọn, Đúng/Sai, Kéo thả ghép nối, Điền khuyết) và hệ thống lưu trữ, thống kê kết quả dành cho giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
